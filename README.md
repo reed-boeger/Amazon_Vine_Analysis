@@ -1,5 +1,7 @@
 # Amazon_Vine_Analysis
+
 ## Overview
+The purpose of this analysis was to investigate Vine endorsment campaigns for amazon product reviews, and to expore the big data ETL process for this. Deliverable 1 focused on creating an AWS database and connecting pgAdmin to this database and populating tables in pgAdmin. Deliverable 2 was a mathmatical analysis and PySpark excercise to assess bias.
 
 ## Results
 The following screenshot answers the questions, how many Vine and non-Vine reviews, how many are 5-star and what percentage of Vine and non-Vine reviews are 5-star:
